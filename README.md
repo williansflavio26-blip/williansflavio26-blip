@@ -3,7 +3,7 @@
 - ⚡ Formado em **Eletrotécnica**
 - 🔩 Estudando **Manutenção Industrial**
 - 💡 Apaixonado por tecnologia e automação
-- 🛠️ Gosto de criar ferramentas que resolvem problemas reais
+- 🛠️ Gosto de aprender ferramentas que resolvem problemas reais
 
 ---
 
