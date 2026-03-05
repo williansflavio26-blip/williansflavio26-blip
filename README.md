@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🔧 Sobre mim
 
-<!--
-**williansflavio26-blip/williansflavio26-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Formado em **Eletrotécnica**
+- 🔩 Estudando **Manutenção Industrial**
+- 💡 Apaixonado por tecnologia e automação
+- 🛠️ Gosto de criar ferramentas que resolvem problemas reais
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Meus Projetos
+
+### 📐 [CalcEng — Calculadoras de Manutenção Industrial](https://williansflavio26-blip.github.io/Calceng)
+> Aplicativo web com calculadoras para Eletrotécnica e Engenharia.
+- ⚙️ **VigaCalc** — Reações de apoio em vigas isostáticas
+- ⚡ **Calculadora Elétrica** — Lei de Ohm, Resistores, Dimensionamento e Quiz
+
+---
+
+⭐ *"A manutenção é a alma da indústria."*
