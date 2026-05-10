@@ -9,13 +9,6 @@
 
 ## 🚀 Meus Projetos
 
-### 📐 [CalcEng — Calculadoras de Manutenção Industrial](https://williansflavio26-blip.github.io/Calceng)
-> Aplicativo web com calculadoras para Eletrotécnica e Engenharia.
-- ⚙️ **VigaCalc** — Reações de apoio em vigas isostáticas
-- ⚡ **Calculadora Elétrica** — Lei de Ohm, Resistores, Dimensionamento e Quiz
-
----
-
 ### 🏭 [Industrial API — Manutenção de Ativos e Qualidade](https://github.com/williansflavio26-blip/industrial-api)
 > API REST para gestão de manutenção industrial e controle de qualidade.
 - 🔧 Cadastro e rastreamento de ativos/equipamentos
