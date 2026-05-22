@@ -19,6 +19,7 @@
 
 # Suíte de Ferramentas Industriais
 
+https://suite-industrial.stramlit.ap
 Aplicação desktop com PyQt5 para:
 - ⚡ Cálculos elétricos (NBR 5410, NR-10, NR-12, IEC)
 - 🛢️ Tabela de lubrificação (NBR 15594)
