@@ -17,7 +17,8 @@
 - 📊 KPIs e indicadores de qualidade
 
 
-# Suíte de Ferramentas Industriais(https://suite-industrial.stramlit.app)
+# Suíte de Ferramentas Industriais
+  https://suite-industrial.stramlit.app
 Aplicação desktop com PyQt5 para:
 - ⚡ Cálculos elétricos (NBR 5410, NR-10, NR-12, IEC)
 - 🛢️ Tabela de lubrificação (NBR 15594)
